@@ -8,3 +8,5 @@
 isaltyfish/isaltyfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+You may want to tell me that "touching fish" is wrong, please don't that clever.
